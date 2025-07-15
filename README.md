@@ -14,5 +14,5 @@
 
 <!--😄 he/him-->
 
-⚡ I play badminton and sleep 
+https://github-readme-stats.vercel.app/api/top-langs/?username=Golden-purple&layout=compact&theme=dark
 
