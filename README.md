@@ -8,8 +8,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
 
-🤔 Currently coasting life
-
 📫 Discord username : goldenpurple
 
 <!--😄 he/him-->
